@@ -6,6 +6,7 @@
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Let's Play](#let's-play)
 
 ## Introduction
 
@@ -37,3 +38,6 @@ This project is a modern implementation of the Simon Game, created as a fun way 
 ---
 
 Enjoy playing the Simon Game and improving your memory skills!
+
+## Let's Play
+Here 👉🏻 :-  https://sachins-gh.github.io/SIMON_GAME/
