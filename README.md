@@ -6,7 +6,7 @@
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Let's Play](#let's-play)
+- [Let's Play](#lets-play)
 
 ## Introduction
 
