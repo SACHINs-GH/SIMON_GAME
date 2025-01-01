@@ -1,4 +1,4 @@
-# Simon Game Project
+# Simon Game - Project
 
 ## Table of Contents
 
